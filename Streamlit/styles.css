@@ -1,0 +1,28 @@
+.css-1d391kg {
+    background-color: #4A90E2 !important;  /* Sidebar background color */
+    width: 300px !important;  /* Sidebar width */
+}
+.css-1d391kg a {
+    color: white !important;  /* Sidebar text color */
+}
+
+/* Main content background color */
+.css-1v3fvcr {
+    background-color: #f0f8ff !important;  /* Main content background color */
+}
+
+/* Styling buttons */
+.css-18e3p6e {
+    background-color: #4A90E2 !important;
+    color: white !important;
+}
+
+/* Title header color */
+.css-1v0mbf0 {
+    color: #4A90E2 !important;
+}
+
+/* Change font and layout */
+body {
+    font-family: 'Arial', sans-serif;
+}

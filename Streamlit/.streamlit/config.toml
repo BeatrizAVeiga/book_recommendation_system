@@ -1,0 +1,10 @@
+[theme]
+
+primaryColor="#767fa7"
+backgroundColor="#e5d8da"
+secondaryBackgroundColor="#F5F2ED"
+textColor="#767fa7"
+
+font="monospace"
+
+files = [ "C:\\Users\\biave\\.streamlit\\secrets.toml", "C:\\Users\\biave\\Documents\\IronHack\\Quests\\Machine Learning\\Streamlit\\.streamlit\\secrets.toml",]
