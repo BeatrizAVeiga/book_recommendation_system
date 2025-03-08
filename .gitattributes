@@ -1,3 +1,5 @@
 .pkl filter=lfs diff=lfs merge=lfs -text
 *.pkl filter=lfs diff=lfs merge=lfs -text
 Models/umap_model.pkl filter=lfs diff=lfs merge=lfs -text
+Models/bertopic_model.pkl filter=lfs diff=lfs merge=lfs -text
+Multimedia/Demo_Video.mp4 filter=lfs diff=lfs merge=lfs -text

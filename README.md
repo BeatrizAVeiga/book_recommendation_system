@@ -51,6 +51,9 @@ The system is built as a **Streamlit application**, which allows users to intera
 ### **5. Display Book Details** 🖼️
 - The system fetches and displays book details such as the title, author, description, rating, format, and cover image. 🏷️📸
   
+## **Demo Video** 🎥
+
+<video controls src="Multimedia\Demo_Video.mp4" width="1000" title="Title"></video>
 
 ## **Presentation Slides** 📸
 
