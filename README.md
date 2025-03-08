@@ -53,7 +53,7 @@ The system is built as a **Streamlit application**, which allows users to intera
   
 ## **Demo Video** 🎥
 
-<video controls src="Multimedia\Demo_Video.mp4" width="1000" title="Title"></video>
+- You can find the Demo Video in the Multimedia folder!
 
 ## **Presentation Slides** 📸
 
